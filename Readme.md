@@ -49,7 +49,7 @@
     ./app
     ```
 
-    The app will start listening on http://localhost:8080.
+    The app will start listening on http://localhost:8080. please visit http://localhost:8080/api/v1/ltp
 
 ### With Docker
 
@@ -61,7 +61,7 @@
     docker run -p 8080:8080 your-image-name
     ```
 
-    Replace your-image-name with the name of your Docker image. The app will start listening on http://localhost:8080.
+    Replace your-image-name with the name of your Docker image. The app will start listening on http://localhost:8080. please visit http://localhost:8080/api/v1/ltp
 
 
 ## Testing the App
